@@ -1,0 +1,102 @@
+✅ intro2 pass
+✅ errors2 pass
+❌ variables1 points 0/1
+✅ errors3 pass
+❌ variables2 points 0/1
+❌ variables3 points 0/1
+✅ errors4 pass
+❌ variables4 points 0/1
+✅ errors5 pass
+❌ variables5 points 0/1
+✅ errors6 pass
+❌ variables6 points 0/1
+✅ generics1 pass
+✅ functions1 pass
+✅ functions2 pass
+✅ generics2 pass
+❌ traits1 points 0/1
+❌ traits2 points 0/1
+✅ functions3 pass
+❌ traits3 points 0/1
+❌ traits4 points 0/1
+✅ functions4 pass
+❌ traits5 points 0/1
+✅ functions5 pass
+❌ quiz3 points 0/1
+✅ if1 pass
+✅ lifetimes1 pass
+✅ lifetimes2 pass
+✅ if2 pass
+✅ lifetimes3 pass
+❌ tests1 points 0/1
+✅ if3 pass
+❌ tests2 points 0/1
+❌ quiz1 points 0/1
+❌ tests3 points 0/1
+❌ primitive_types1 points 0/1
+❌ tests4 points 0/1
+❌ primitive_types2 points 0/1
+❌ primitive_types3 points 0/1
+❌ primitive_types4 points 0/1
+❌ primitive_types5 points 0/1
+✅ iterators1 pass
+❌ primitive_types6 points 0/1
+❌ vecs1 points 0/1
+❌ vecs2 points 0/1
+✅ iterators2 pass
+✅ move_semantics1 pass
+✅ move_semantics2 pass
+✅ iterators3 pass
+✅ move_semantics3 pass
+✅ iterators4 pass
+✅ move_semantics4 pass
+✅ move_semantics5 pass
+✅ iterators5 pass
+❌ box1 points 0/1
+✅ move_semantics6 pass
+❌ structs1 points 0/1
+❌ structs2 points 0/1
+❌ rc1 points 0/1
+❌ arc1 points 0/1
+❌ structs3 points 0/1
+❌ cow1 points 0/1
+✅ enums1 pass
+❌ threads1 points 0/1
+❌ threads2 points 0/1
+✅ enums2 pass
+❌ threads3 points 0/1
+✅ macros1 pass
+✅ enums3 pass
+❌ strings1 points 0/1
+❌ strings2 points 0/1
+✅ macros2 pass
+❌ strings3 points 0/1
+❌ strings4 points 0/1
+✅ macros3 pass
+✅ modules1 pass
+✅ macros4 pass
+✅ modules2 pass
+✅ modules3 pass
+✅ hashmaps1 pass
+✅ hashmaps2 pass
+✅ clippy1 pass
+✅ hashmaps3 pass
+❌ quiz2 points 0/1
+❌ options1 points 0/1
+❌ options2 points 0/1
+❌ options3 points 0/1
+✅ clippy2 pass
+✅ errors1 pass
+❌ tests5 points 0/1
+❌ tests6 points 0/1
+✅ clippy3 pass
+✅ using_as pass
+❌ tests7 points 0/1
+✅ from_into pass
+❌ tests8 points 0/1
+✅ from_str pass
+❌ tests9 points 0/1
+✅ try_from_into pass
+✅ as_ref_mut pass
+
+Points: 52/100
